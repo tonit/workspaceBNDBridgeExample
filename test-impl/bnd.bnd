@@ -1,0 +1,8 @@
+Bundle-Version: 1.0.0
+Service-Component: *
+
+-buildpath: osgi.core,\
+	biz.aQute.bnd.annotation,\
+	test-api;version=latest
+	
+Private-Package: test.impl
