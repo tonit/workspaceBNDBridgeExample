@@ -4,7 +4,7 @@
   <parent>
     <groupId>test</groupId>
     <artifactId>test-parent</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>0.0.0-SNAPSHOT</version>
     <relativePath>../test-parent/pom.xml</relativePath>
   </parent>
   
